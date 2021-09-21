@@ -1,0 +1,134 @@
+[
+    {
+        "colors": [
+            {
+                "id": 1,
+                "name": "Verde",
+                "isSelected": false
+            },
+            {
+                "id": 2,
+                "name": "Rosa",
+                "isSelected": false
+            },
+            {
+                "id": 3,
+                "name": "Branco",
+                "isSelected": false
+            },
+            {
+                "id": 4,
+                "name": "Cinza",
+                "isSelected": false
+            },
+            {
+                "id": 5,
+                "name": "Laranja",
+                "isSelected": false
+            },
+            {
+                "id": 6,
+                "name": "Onça",
+                "isSelected": false
+            },
+            {
+                "id": 7,
+                "name": "Colorido",
+                "isSelected": false
+            },
+            {
+                "id": 8,
+                "name": "Preto",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "sizes": [
+            {
+                "id": 1,
+                "name": "P",
+                "isSelected": false
+            },
+            {
+                "id": 2,
+                "name": "M",
+                "isSelected": false
+            },
+            {
+                "id": 3,
+                "name": "G",
+                "isSelected": false
+            },
+            {
+                "id": 4,
+                "name": "GG",
+                "isSelected": false
+            },
+            {
+                "id": 5,
+                "name": "U",
+                "isSelected": false
+            },
+            {
+                "id": 6,
+                "name": "36",
+                "isSelected": false
+            },
+            {
+                "id": 7,
+                "name": "38",
+                "isSelected": false
+            },
+            {
+                "id": 8,
+                "name": "40",
+                "isSelected": false
+            },
+            {
+                "id": 9,
+                "name": "42",
+                "isSelected": false
+            },
+            {
+                "id": 10,
+                "name": "44",
+                "isSelected": false
+            },
+            {
+                "id": 11,
+                "name": "46",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "prices": [
+            {
+                "id": 1,
+                "name": "de R$0 até R$50",
+                "isSelected": false
+            },
+            {
+                "id": 2,
+                "name": "de R$51 até R$150",
+                "isSelected": false
+            },
+            {
+                "id": 3,
+                "name": "de R$151 até R$300",
+                "isSelected": false
+            },
+            {
+                "id": 4,
+                "name": "de R$301 até R$500",
+                "isSelected": false
+            },
+            {
+                "id": 5,
+                "name": "a partir de R$01",
+                "isSelected": false
+            }
+        ]
+    }
+]

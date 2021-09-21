@@ -1,0 +1,11 @@
+Exeuctar o projeto:
+1 - Clonar a pasta M3Dev
+2 - Rodar o comando npm ou yarn para baixar as dependencias
+3 - Rodar o comando npm start ou yarn start e o projeto será executado.
+
+Dos itens não realizados:
+- Adicionar produto ao carrinho
+- Carregar mais produtos
+- Responsividade
+
+
